@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋  I'm Onur from Turkey, and I do content Development. I really enjoy languages and frameworks.  You can check out my twitter at https://twitter.com/hayalettz.
+
+- 🌱 I’m currently learning  Python
+
 
 <!--
 **onurrkarasu/onurrkarasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

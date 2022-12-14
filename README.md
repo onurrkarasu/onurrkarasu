@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Onur from Turkey, and I do content Development. I really enjoy languages and frameworks.  You can check out my twitter at https://twitter.com/hayalettz.
+### Hi there 👋  I'm Onur from Turkey, and I do content Cyber Researchering and Development. I really enjoy languages and frameworks.  You can check out my twitter at https://twitter.com/hayalettz.
 
 
 
